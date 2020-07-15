@@ -15,5 +15,3 @@ end
 def move(board, index, value = "X")
   board[index] = value
 end
-
-"Welcome to Tic Tac Toe!"
